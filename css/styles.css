@@ -1,0 +1,74 @@
+#title
+{
+  background-color: #ff4c68;
+
+}
+body
+{
+}
+h3
+{
+  font-family: 'Suez One', serif;
+}
+#features{
+  background-color: white;
+
+}
+
+#footer{
+  background-color: #393e46;
+  padding: 2% 0 0 0;
+  color: white;
+  text-align: center;
+}
+
+@media (min-width:992px){
+
+  #pricing{
+    padding-left: 400px;
+  }
+
+}
+#cta{
+  text-align: center;
+  padding: 5% 0 2% 0;
+}
+
+
+#testimonials
+{
+
+  text-align: center;
+  background-color: #ef8172;
+  font-family: 'Montserrat-bold';
+}
+.carousel-item
+{
+padding: 50px 200px 100px 200px;
+}
+
+h2{
+  color: white;
+}
+.dog{
+  width: 150px;
+  margin: 40px 40px 0 0;
+  border-radius: 100%;
+}
+.woman{
+  width: 150px;
+  margin: 40px 40px 0 0;
+  border-radius: 100%;
+}
+
+#press{
+  background-color: #ef8172;
+  padding-bottom: 80px;
+  text-align: center;
+
+}
+
+.press-image{
+  width: 200px;
+  margin-left: 20px;
+}
